@@ -3,5 +3,5 @@
 <h3> SetData: <a href =https://www.kaggle.com/gregorut/videogamesales>https://www.kaggle.com/gregorut/videogamesales </a></h3>
 <h3> Biblioteca pandas e numpy.</3>
 <h3>Códigos contendo comentários.</h3>
-![6975](https://user-images.githubusercontent.com/20029768/89317262-83cb7480-d653-11ea-99a1-4b632797985d.gif)
+![](https://tenor.com/view/codes-play-station-gif-5923318)
 
